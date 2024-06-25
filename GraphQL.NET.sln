@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL.NET", "GraphQL.NET\GraphQL.NET.csproj", "{69D6072D-F084-47F8-9ABB-2C003F93FB87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpAPITest", "RestSharpAPITest\RestSharpAPITest\RestSharpAPITest.csproj", "{004C8101-DADC-461F-A94E-E226D20CD7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpIntegrationTest", "RestSharpIntegrationTest\RestSharpIntegrationTest.csproj", "{01F84C26-9BC6-40AD-9645-3F7B0AD6FB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D6072D-F084-47F8-9ABB-2C003F93FB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D6072D-F084-47F8-9ABB-2C003F93FB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D6072D-F084-47F8-9ABB-2C003F93FB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D6072D-F084-47F8-9ABB-2C003F93FB87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004C8101-DADC-461F-A94E-E226D20CD7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004C8101-DADC-461F-A94E-E226D20CD7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004C8101-DADC-461F-A94E-E226D20CD7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004C8101-DADC-461F-A94E-E226D20CD7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F84C26-9BC6-40AD-9645-3F7B0AD6FB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F84C26-9BC6-40AD-9645-3F7B0AD6FB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F84C26-9BC6-40AD-9645-3F7B0AD6FB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F84C26-9BC6-40AD-9645-3F7B0AD6FB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
